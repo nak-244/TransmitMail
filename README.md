@@ -1,5 +1,7 @@
 # TransmitMail
 
+https://nak-244.github.io/TransmitMail/
+
 [Readme in English is here](https://github.com/dounokouno/TransmitMail/blob/master/README_en.md)
 
 Copyright 表示不要の PHP 製汎用メールフォームシステム
