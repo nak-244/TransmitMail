@@ -47,10 +47,8 @@ Wiki にマニュアルをまとめました。
 * [PHP高機能日本語メール送信ライブラリ・文字化けフリー - Qdmail - PHP::Mail Library , Quick and Detailed for Multibyte](http://hal456.net/qdmail/)
 * [Qdsmtpとは - Qdsmtp-Simple SMTP Mailer for PHP](http://hal456.net/qdsmtp/)
 
-## Author
+下記テンプレートエンジンを改変して利用しました。
 
-[@dounokouno](https://twitter.com/dounokouno)
-
-## Copyright
-
-Copyright (c) 2011 TAGAWA Takao, dounokouno@gmail.com
+###　3つの見出しを作ってみたらこうなります
+#### 4つもやってみる
+#####　5つ
